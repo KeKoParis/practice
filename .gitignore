@@ -1,0 +1,7 @@
+.venv
+.log
+.idea
+*/.ipynb_checkpoints
+create_dataset
+models.ipynb
+.log
